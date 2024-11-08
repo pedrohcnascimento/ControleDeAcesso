@@ -92,7 +92,6 @@ public class ServidorHTTP {
         @Override
         public void handle(HttpExchange exchange) throws IOException {
             exchange.getResponseHeaders().set("Content-Type", "application/json");
-            System.out.println("teste");
             String jsonResponse = ControleDeAcesso.matrizRegistrosDeAcesso.length == 0
                     ? "[]"
                     : "[" +
@@ -100,7 +99,6 @@ public class ServidorHTTP {
                             .map(registro -> String.format("{\"nome\":\"%s\",\"horario\":\"%s\",\"imagem\":\"%s\"}", registro[0], registro[1],registro[2]))
                             .collect(Collectors.joining(",")) +
                     "]";
-            System.out.println("JSON Response: " + jsonResponse);
             byte[] bytesResposta = jsonResponse.getBytes();
             exchange.sendResponseHeaders(200, bytesResposta.length);
             OutputStream os = exchange.getResponseBody();

@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dc25811-3244-4a92-bf02-26925276221b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/asset-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/asset-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/static/css/main.e6c13ad2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/static/css/main.e6c13ad2.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/static/js/453.48277466.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/static/js/453.48277466.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/static/js/main.87d7f8b9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/static/js/main.87d7f8b9.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/build/static/js/main.87d7f8b9.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/static/css/main.e6c13ad2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/static/css/main.e6c13ad2.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/static/js/453.48277466.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/static/js/453.48277466.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/static/js/main.87d7f8b9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/static/js/main.87d7f8b9.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/build/static/js/main.87d7f8b9.js.map" afterDir="false" />
-    </list>
+    <list default="true" id="4dc25811-3244-4a92-bf02-26925276221b" name="Changes" comment="Dia 08/11 projeto AQV cadastro do professor." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +12,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pedrohcnascimento"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pedrohcnascimento/ControleDeAcesso.git",
+    "accountId": "d0b44e4e-8262-4d8a-8192-a4ee88cc24f5"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -59,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ControleDeAcesso.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -81,6 +60,35 @@
       <option name="presentableId" value="Default" />
       <updated>1731086539341</updated>
     </task>
+    <task id="LOCAL-00001" summary="Dia 08/11 projeto AQV cadastro do professor.">
+      <option name="closed" value="true" />
+      <created>1731087104370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731087104370</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dia 08/11 projeto AQV cadastro do professor.">
+      <option name="closed" value="true" />
+      <created>1731087137967</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731087137967</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dia 08/11 projeto AQV cadastro do professor.">
+      <option name="closed" value="true" />
+      <created>1731087193271</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731087193271</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dia 08/11 projeto AQV cadastro do professor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Dia 08/11 projeto AQV cadastro do professor." />
   </component>
 </project>
